@@ -5,7 +5,7 @@ const ExpiredNotice = () => {
   return (
     <div className="expired-notice">
       <span>Expired!</span>
-      <p>PLease select a future date and time</p>
+      <p>Please select a future date and time</p>
     </div>
   );
 };
